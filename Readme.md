@@ -8,3 +8,5 @@
 test
 
 practice
+
+같이 힘내봐요!
